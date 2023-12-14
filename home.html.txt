@@ -1,0 +1,10 @@
+<html>
+<body>
+<h1>
+hoem page
+</h1>
+<p>
+this is paragrap fr the home page
+</p>
+</body>
+</html>

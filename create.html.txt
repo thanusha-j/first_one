@@ -1,0 +1,9 @@
+<html>
+<body>
+<h1>
+creat page
+</h1>
+<p>
+this is a paragrap for creation of html
+</body>
+</html>
